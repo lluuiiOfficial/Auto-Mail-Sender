@@ -1,4 +1,4 @@
-## Welcome to the Auto-Mail-Sender wiki!
+## Welcome to the Auto_Mail_Sender wiki!
 
 ### 1. You must have Python installed.
 ### 2. You must install yagmail
