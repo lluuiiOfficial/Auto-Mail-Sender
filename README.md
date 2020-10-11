@@ -10,7 +10,7 @@
    3. Enter a name, e.g. Python, and click ‘GENERATE’. Note this name has no link to the Python script and it could be anything.
    4.  Then you will get a new app password. Copy and save the 16-character password without space, e.g. xnwbjmgvjeeevlgc, to use in your Python script.
 
-### 4. Replace values in the code by your own (your open the code with notepad or other programs)
+### 4. Replace values in the code by your own (you can open the code with notepad or other programs)
    * user -> your email adress
    * app_password -> the password juste created above
    * to -> the reveiver email adress
